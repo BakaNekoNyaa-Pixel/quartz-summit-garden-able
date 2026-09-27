@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RDNA Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 1443,
+      "bodyTextHash": "4b38cdbc222e8e368d6c50bdfbf1b2af97a4937bd356b681a23f1347378dcc3b",
+      "bodyTextPrefix": "RDNA Forge Estudio de imagen para Radeon FLUX · FLUX.1 RDNA [dev",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RDNA Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 1432,
+      "bodyTextHash": "a1ade0bf91bc1d5440c5e6b18f778b6f63672b8097283ee012f5493b62832259",
+      "bodyTextPrefix": "RDNA Forge Estudio de imagen para Radeon FLUX · FLUX.1 RDNA [dev",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
